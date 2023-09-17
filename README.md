@@ -1,3 +1,5 @@
+<img src="eyes1.jpg" width='100'/>
+
 # Eyes
 Both pupils follow around the user's cursor.
 ### Details
